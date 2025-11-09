@@ -50,12 +50,43 @@ Python scripts for automation & security research
 ### **🖥️ NeonCLI** 
 Terminal-based productivity utilities
 
-## 🌐 Connect With Me
+## 🌐 Network Connections
 
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:contact@mahrac.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mahrac)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/MahRAC_Tech)
+```bash
+mahrac@terminal:~$ whois MahRAC
 
+█▀▄▀█ ▄▀█ █▀█ ▄▀█ █▀▀ █▀█
+█░▀░█ █▀█ █▀▄ █▀█ █▄█ █▀▄
+
+🖧 CONNECTION ESTABLISHED
+📍 Location: Digital Realm
+🛡️ Status: SECURE_ENCRYPTED
+🔗 Protocol: SSHv2
+
+Available endpoints:
+├── 📧 Email    → root@mahrac.dev
+├── 💼 LinkedIn → in/mahrac-security
+├── 🐦 Twitter  → @MahRAC_0x00
+├── 💻 GitHub   → github.com/MahRAC
+└── 🔐 PGP Key  → 0x1A2B3C4D5E6F7890
+
+mahrac@terminal:~$ nc -zv social.links 443
+Connection to social.links port 443 [tcp/https] succeeded!
+
+mahrac@terminal:~$ ping -c 3 collaboration.hub
+PING collaboration.hub (127.0.0.1) 56(84) bytes of data.
+64 bytes from localhost: icmp_seq=1 ttl=64 time=0.1 ms
+64 bytes from localhost: icmp_seq=2 ttl=64 time=0.2 ms  
+64 bytes from localhost: icmp_seq=3 ttl=64 time=0.1 ms
+
+--- collaboration.hub ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss
+
+mahrac@terminal:~$ ssh connect@mahrac.dev
+Welcome to MahRAC's secure channel!
+Type 'help' for available commands.
+
+mahrac@terminal:~$ 
 ---
 
 > *"Code is like a virus… it spreads where you least expect it."*
