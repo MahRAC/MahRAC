@@ -1,6 +1,6 @@
 # 🚀 MahRAC
 
-**Cyber Security Researcher & Full-Stack Developer**
+**Cyber Tool & Full-Stack Developer**
 
 ## 💻 Tech Stack
 
